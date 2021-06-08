@@ -16,3 +16,11 @@ html, body {
     height: 20px;
     background-color: blue;
 }
+
+.snake {
+    background-color: green;
+}
+
+.apple {
+    background-color: blue;
+}
